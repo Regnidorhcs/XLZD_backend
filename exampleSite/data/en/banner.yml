@@ -1,0 +1,13 @@
+############################### Banner ################################
+banner:
+  enable : true
+  # bg_image_webp : "images/backgrounds/hero-area.webp"
+  bg_image : "images/backgrounds/pmts.png"
+  icon : "" # themify icon pack : https://themify.me/themify-icons
+  title : "ODIN"
+  title2 : "Dark Matter Detection Consortium"
+  content : "Three world leading collaborations joining forces in the search for Dark Matter!"
+  button:
+    enable : true
+    label : "What is Dark Matter"
+    link : "#feature"

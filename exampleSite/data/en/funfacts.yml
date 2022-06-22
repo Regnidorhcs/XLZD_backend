@@ -1,0 +1,25 @@
+################################# funfacts ##################################
+funfacts:
+  enable : true
+  bg_image : "images/backgrounds/pmts.png"
+  bg_image_webp : "images/backgrounds/pmts.png"
+  counter_item:
+    # counter item loop
+    - title : "People"
+      icon : "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
+      count : "580"
+
+    # counter item loop
+    - title : "Institutions"
+      icon : "ti-location-pin" # themify icon pack : https://themify.me/themify-icons
+      count : "141"
+
+    # counter item loop
+    - title : "Publications"
+      icon : "ti-archive" # themify icon pack : https://themify.me/themify-icons
+      count : "270"
+
+    # counter item loop
+    - title : "Citations"
+      icon : "ti-thumb-up" # themify icon pack : https://themify.me/themify-icons
+      count : "3500"

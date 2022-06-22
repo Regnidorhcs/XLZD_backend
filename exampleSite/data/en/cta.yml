@@ -1,0 +1,11 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/pmts.png"
+  # bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "Directly Detecting Dark Matter"
+  content : "Accellerators attempt to produce Dark Matter, other Observatories look for Dark Matter disintegration. We want to directly observe the interaction of local Dark Matter with our detector. "
+  button:
+    enable : true
+    label : "Read more about our idea"
+    link : "https://arxiv.org/pdf/2203.02309.pdf"

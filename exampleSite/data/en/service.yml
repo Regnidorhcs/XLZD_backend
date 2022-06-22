@@ -1,0 +1,34 @@
+################################# Service #################################
+service:
+  enable : true
+  title : Xenon Observatory
+  service_item :
+    # service item loop
+    - name : Vanilla Dark Matter
+      icon : ti-heart # themify icon pack : https://themify.me/themify-icons
+      content : Excellent sensitivity to Spin Independent and Spin-Dependent interactions for GeV and sub-GeV Weakly Interacting Massive Particles
+
+    # service item loop
+    - name : Exotic Dark Matter
+      icon : ti-heart-broken # themify icon pack : https://themify.me/themify-icons
+      content : Sensitive to a plethora of exotic particles due to excellent energy threshold and resolution; axion-like particles, dark photons, composite, mirror, assymetric models etc. 
+
+    # service item loop
+    - name : Neutrino Physics
+      icon : ti-arrow-circle-down # themify icon pack : https://themify.me/themify-icons
+      content : Sensitive to neutrinoless double beta decay of Xe-136 and double electron capture of Xe-124. Also sensitive to neutrino magnetic moment
+
+    # service item loop
+    - name : Solar Physics
+      icon : ti-shine # themify icon pack : https://themify.me/themify-icons
+      content : Able to constrain solar metallicity models through measurements of pp Be-7 and B-8 neutrinos
+
+    # service item loop
+    - name : Cosmic Rays
+      icon : ti-stats-down # themify icon pack : https://themify.me/themify-icons
+      content : Sensitive to atmospheric neutrino measurements at lower energies previously incredibly challenging
+
+    # service item loop
+    - name : Supernova
+      icon : ti-star # themify icon pack : https://themify.me/themify-icons
+      content : An excellent early alert device for a supernova event for multi-messanger astrophysics

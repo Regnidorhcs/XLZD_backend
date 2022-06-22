@@ -1,0 +1,19 @@
+############################# About ###################################
+about:
+  enable : true
+  title : About Us
+  about_item :
+  - image : images/about/xenon.png
+    title : XENON
+    link : http://www.xenon1t.org/
+    content : Currently operating with 8.3 tonnes of liquid Xenon at Gran Sasso, Italy
+
+  - image : images/about/lz2.png
+    title : LUX-ZEPLIN
+    link : https://lz.lbl.gov/
+    content : Currently operating with 10 tonnes of liquid Xenon at SURF in South Dakota
+
+  - image : images/about/darwin.png
+    title : DARWIN
+    link : https://darwin.physik.uzh.ch/
+    content : Conceptualising future detector designs with numerous R&D project efforts

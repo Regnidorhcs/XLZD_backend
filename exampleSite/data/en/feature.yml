@@ -1,0 +1,28 @@
+############################# feature ###################################
+feature:
+  enable : true
+  # image : images/about/dm_pink.jpeg
+  image : images/backgrounds/dm_pink2.jpeg
+  # image_webp : images/about/about-business-man.webp
+  title : Dark Matter
+  content : "A hypothetical form of matter whose evidence for existence can be seen across many scales in the universe. For nearly 100 years its nature has remained a mystery."
+  feature_item :
+      # feature item loop
+    - title : Non-luminus
+      icon : ti-eye # themify icon pack : https://themify.me/themify-icons
+      content : It does not emmit or absorb light. Its presence was deduced purely due to its gravitational effects
+
+      # feature item loop
+    - title : Abundant & heavy
+      icon : ti-anchor # themify icon pack : https://themify.me/themify-icons
+      content : Forms structures within which galaxies and clusters form. There's 5x more dark matter than conventional matter in the universe
+
+      # feature item loop
+    - title : Stable & Elusive
+      icon : ti-infinite # themify icon pack : https://themify.me/themify-icons
+      content : A stable and neutral form of matter that interacts weakly with itself and others
+
+      # feature item loop
+    - title : New particle
+      icon : ti-new-window # themify icon pack : https://themify.me/themify-icons
+      content : No fundamental particle from the Standard Model behaves this way

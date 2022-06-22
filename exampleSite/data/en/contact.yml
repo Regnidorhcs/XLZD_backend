@@ -1,0 +1,22 @@
+############################## Contact #############################
+contact:
+  enable : true
+  title : Contact Us
+  subtitle : Contact Details
+  content : If you'd like more information about this consortium please contact any member of the three collaborations composing it or reach out with one of the links below.
+
+  # # Contact details
+  # contact_list:
+  #   - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+  #     info : "Email: hello@meghna.com"
+
+
+  # # Contact form
+  # contact_form:
+  #   enable : true
+  #   form_action : "#" #contact form works with https://formspree.io
+  #   name : "Your Name"
+  #   email : "Your Email"
+  #   subject : "Subject"
+  #   message : "Message"
+  #   submit : "Submit"

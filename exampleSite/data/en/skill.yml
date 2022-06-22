@@ -1,0 +1,35 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Our Impact
+
+
+  subtitle1 : Members of this consortium have been leading WIMP sensitivity exploration
+  content1 : Over the years liquid Xenon experiments have lead and overdelivered on the exploration of WIMP-nucleon cross-section
+  image1 : images/plots/moore_year_final.png
+
+  subtitle2 : Consistent growth in the field
+  content2 : Nearly 50% larger output than alternative direct detection experiments by 2030
+  image2 : images/plots/pubs.png
+
+
+
+# skill_item :
+  #   # skill item loop
+  #   - name :  Business Development
+  #     percent : 90%
+  #
+  #   # skill item loop
+  #   - name :  Analysis
+  #     percent : 70%
+  #
+  #   # skill item loop
+  #   - name :  Design
+  #     percent : 80%
+  #
+  #   - name :  IOS Development
+  #     percent : 95%
+  #
+  #   # skill item loop
+  #   - name :  Android Development
+  #     percent : 75%

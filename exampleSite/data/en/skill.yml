@@ -4,13 +4,13 @@ skill:
   title : Our Impact
 
 
-  subtitle1 : Members of this consortium have been leading WIMP sensitivity exploration
-  content1 : Over the years liquid Xenon experiments have lead and overdelivered on the exploration of WIMP-nucleon cross-section
-  image1 : images/plots/moore_year_final.png
+  subtitle1 : An observatory for rare physics
+  content1 : A powerful set of instruments that provides competitive results in many areas
+  image1 : images/about/sciencechannels.png
 
-  subtitle2 : Consistent growth in the field
-  content2 : Nearly 50% larger output than alternative direct detection experiments by 2030
-  image2 : images/plots/pubs.png
+  # subtitle2 : Consistent growth in the field
+  # content2 : Nearly 50% larger output than alternative direct detection experiments by 2030
+  # image2 : images/plots/pubs.png
 
 
 

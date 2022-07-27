@@ -8,14 +8,14 @@ feature:
   content : "A hypothetical form of matter whose evidence for existence can be seen across many scales in the universe. For nearly 100 years its nature has remained a mystery."
   feature_item :
       # feature item loop
-    - title : Non-luminus
+    - title : Non-luminous
       icon : ti-eye # themify icon pack : https://themify.me/themify-icons
-      content : It does not emmit or absorb light. Its presence was deduced purely due to its gravitational effects
+      content : It does not emit or absorb light. Its presence was deduced purely due to its gravitational effects
 
       # feature item loop
-    - title : Abundant & heavy
+    - title : Abundant & Heavy
       icon : ti-anchor # themify icon pack : https://themify.me/themify-icons
-      content : Forms structures within which galaxies and clusters form. There's 5x more dark matter than conventional matter in the universe
+      content : Forms structures within which galaxies and clusters form. There is 5x more dark matter than conventional matter in the universe
 
       # feature item loop
     - title : Stable & Elusive
@@ -23,6 +23,6 @@ feature:
       content : A stable and neutral form of matter that interacts weakly with itself and others
 
       # feature item loop
-    - title : New particle
+    - title : New Particle
       icon : ti-new-window # themify icon pack : https://themify.me/themify-icons
       content : No fundamental particle from the Standard Model behaves this way

@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
-baseURL = "https://regnidorhcs.github.io/"
-title = "ODIN"
+baseURL = "https://xlzd.org/"
+title = "XLZD Consortium"
 theme = "meghna-hugo"
 themesDir = "../.."
 # post pagination
@@ -53,6 +53,11 @@ url = "#services"
 weight = 2
 
 # [[Languages.en.menu.main]]
+# name = "impact"
+# url = "#funfacts"
+# weight = 3
+
+# [[Languages.en.menu.main]]
 # name = "institutions"
 # url = "#portfolio"
 # weight = 3
@@ -60,12 +65,12 @@ weight = 2
 [[Languages.en.menu.main]]
 name = "blog"
 url = "#blog"
-weight = 6
+weight = 3
 
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
-weight = 7
+weight = 4
 
 
 # [[Languages.en.menu.main]]
@@ -89,7 +94,7 @@ weight = 7
 
 ############################# Default Parameters ##########################
 [params]
-logo = "images/odin.png"
+logo = "images/xlzd.png"
 # Meta data
 description = "Consortium Webpage for Dark Matter"
 author = "Nicolas Angelides"
@@ -101,7 +106,7 @@ post_share = false
 # preloader
 [params.preloader]
 enable = false
-preloader = "images/odin.png"
+preloader = "images/xlzd.png"
 
 # cookies
 [params.cookies]
@@ -119,11 +124,11 @@ map_marker = "images/marker.png"
 ############################# social icons ##########################
 [[params.social]]
 icon = "ti-twitter" # themify icon pack : https://themify.me/themify-icons
-link = "https://twitter.com/DarwinObserv"
+link = "https://twitter.com/XLZDconsortium"
 
 [[params.social]]
 icon = "ti-email" # themify icon pack : https://themify.me/themify-icons
-link = "mailto:na1317@ic.ac.uk"
+link = "mailto:contact@xlzd.org"
 #
 # [[params.social]]
 # icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
@@ -149,4 +154,4 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "Copyright &copy; 2022 Designed by [Nicolas Angelides](https://www.regnidorhcs.com.com) using [themefisher](https://themefisher.com)"
+copyright = "Creative Commons; 2022 Designed by [Nicolas Angelides](https://www.regnidorhcs.com) using [themefisher](https://themefisher.com)"

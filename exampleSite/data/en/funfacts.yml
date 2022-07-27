@@ -7,19 +7,19 @@ funfacts:
     # counter item loop
     - title : "People"
       icon : "ti-face-smile" # themify icon pack : https://themify.me/themify-icons
-      count : "580"
+      count : "350"
 
     # counter item loop
     - title : "Institutions"
       icon : "ti-location-pin" # themify icon pack : https://themify.me/themify-icons
-      count : "141"
+      count : "60"
 
     # counter item loop
     - title : "Publications"
       icon : "ti-archive" # themify icon pack : https://themify.me/themify-icons
-      count : "270"
+      count : "300"
 
     # counter item loop
     - title : "Citations"
       icon : "ti-thumb-up" # themify icon pack : https://themify.me/themify-icons
-      count : "3500"
+      count : "31000"

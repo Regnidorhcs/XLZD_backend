@@ -2,21 +2,26 @@
 service:
   enable : true
   title : Xenon Observatory
+  intro : With 40-100 tonnes Xenon we will achieve a lot more than ever before
+  intro2 : A low-background, low-threshold xenon observatory can access more than just Weakly Interacting Dark Matter, including neutrinoless double-betta decay, double-electron captrure, solar and astrophysical neutrinos, and broader beyond the Standard Model topics, especially axion-like particles and dark photon electron-recoil interactions
+  subtitle1 : An observatory for rare physics
+  # content1 : A powerful set of instruments that provides competitive results in many areas
+  image1 : images/about/sciencechannels.png
   service_item :
     # service item loop
     - name : Vanilla Dark Matter
       icon : ti-heart # themify icon pack : https://themify.me/themify-icons
-      content : Excellent sensitivity to Spin Independent and Spin-Dependent interactions for GeV and sub-GeV Weakly Interacting Massive Particles
+      content : World-leading sensitivity to Spin-Independent and Spin-Dependent interactions for GeV and sub-GeV Weakly Interacting Massive Particles (WIMP)
 
     # service item loop
     - name : Exotic Dark Matter
       icon : ti-heart-broken # themify icon pack : https://themify.me/themify-icons
-      content : Sensitive to a plethora of exotic particles due to excellent energy threshold and resolution; axion-like particles, dark photons, composite, mirror, assymetric models etc. 
+      content : Sensitive to a plethora of exotic particles due to excellent energy threshold and resolution; axion-like particles, dark photons, composite, mirror, asymetric models etc.
 
     # service item loop
     - name : Neutrino Physics
       icon : ti-arrow-circle-down # themify icon pack : https://themify.me/themify-icons
-      content : Sensitive to neutrinoless double beta decay of Xe-136 and double electron capture of Xe-124. Also sensitive to neutrino magnetic moment
+      content : Sensitive to neutrinoless double beta decay of Xe-136 and double electron capture of Xe-124, at natural abundance. Also sensitive to neutrino magnetic moment
 
     # service item loop
     - name : Solar Physics
@@ -31,4 +36,4 @@ service:
     # service item loop
     - name : Supernova
       icon : ti-star # themify icon pack : https://themify.me/themify-icons
-      content : An excellent early alert device for a supernova event for multi-messanger astrophysics
+      content : An excellent early alert device for a supernova event also assisting with multi-messenger astrophysics

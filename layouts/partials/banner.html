@@ -7,12 +7,16 @@
 	<!-- this image is for trigger this section fallback background image -->
 	<img class="d-none" src="{{ .bg_image_webp | absURL }}" onerror="this.onerror=null;this.parentElement.style.backgroundImage= 'url({{ .bg_image | absURL }})'"/>
 
+
+
+
 	<div class="block">
 		{{ if .icon }}
 		<div class="video-button">
 			<i class="{{ .icon }}"></i>
 		</div>
 		{{ end }}
+		<img class="img-fluid lozad" width="500" data-src="{{ .image | absURL }}" alt="image">
 		<h1>{{ .title | markdownify }}</h1>
 		<h2>{{ .title2 | markdownify }}</h2>
 		<p>{{ .content | markdownify }}</p>

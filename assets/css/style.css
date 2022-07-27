@@ -242,6 +242,9 @@ a:hover {
 .section {
   padding: 100px 0;
 }
+.section2 {
+  padding: 40px 0;
+}
 
 @media (max-width: 480px) {
   .section {
@@ -553,7 +556,8 @@ a:hover {
   padding: 30px;
   border-bottom: 2px solid transparent;
   transition: .5s all;
-  margin-bottom: 20px;
+  margin-bottom: 40px;
+  margin-top: 30px;
 }
 
 .about .block:hover {
@@ -567,7 +571,7 @@ a:hover {
 
 
 .about .img {
-  padding: 20px;
+  padding: 40px;
 }
 
 .about .block .icon-box {
@@ -661,6 +665,7 @@ a:hover {
 
 .call-to-action .btn-main {
   margin-top: 23px;
+  margin-bottom: 23px;
 }
 
 /*=================================================================
@@ -959,6 +964,7 @@ a:hover {
   padding: 60px 20px;
   border-left: 1px solid rgba(236, 239, 241, 0.07);
   border-top: 1px solid rgba(236, 239, 241, 0.07);
+  margin-top: 40px;
   margin-bottom: 40px;
   box-shadow: 2px 2px 5px rgba(44, 44, 44, 0.3), 13px 13px 0 rgba(255, 255, 255, 0.7);
 }
@@ -1031,7 +1037,7 @@ a:hover {
 ==================================================================*/
 .team-member {
   background-color: #1d2126;
-  margin-bottom: 10px;
+  margin-bottom: 20px;
 }
 
 .team-member:hover .mask {
@@ -1069,7 +1075,7 @@ a:hover {
 }
 
 .member-photo .mask {
-  background-color: rgba(87, 203, 204, 0.7);
+  background-color: rgba(204, 87, 179, 0.7);
   position: absolute;
   text-align: center;
   height: 100%;
@@ -1086,18 +1092,18 @@ a:hover {
 .member-photo .mask ul {
   text-align: center;
   position: relative;
-  top: 125px;
+  top: 65px;
 }
 
 .member-photo .mask ul li a {
   border: 1px solid #fff;
   color: #fff;
   display: block;
-  font-size: 20px;
-  height: 35px;
-  line-height: 35px;
+  font-size: 40px;
+  height: 70px;
+  line-height: 70px;
   text-align: center;
-  width: 35px;
+  width: 70px;
 }
 
 .member-photo .mask ul li a:hover {
@@ -1115,7 +1121,7 @@ a:hover {
 }
 
 .member-meta span {
-  font-size: 12px;
+  font-size: 24px;
 }
 
 /*=================================================================
@@ -1263,7 +1269,7 @@ a:hover {
 ==================================================================*/
 #blog-banner {
   padding-bottom: 100px;
-  padding-top: 150px;
+  padding-top: 20px;
 }
 
 #blog-page {
@@ -1529,7 +1535,7 @@ input#e-mail,
 }
 
 .social-icon ul li a {
-  background-color: #26292e;
+  background-color: #46494e;
   border: 1px solid transparent;
   display: block;
   height: 70px;
@@ -1547,7 +1553,7 @@ input#e-mail,
 }
 
 .social-icon ul li a i {
-  color: #55606a;
+  color: #fff;
   display: inline-block;
   font-size: 32px;
   line-height: 70px;

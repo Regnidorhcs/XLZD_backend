@@ -3,7 +3,7 @@
 {{ if $data.team.team.enable }}
 {{ with $data.team.team }}
 {{"<!-- Start Our Team -->" | safeHTML}}
-<section id="team" class="section">
+<section id="team" class="section2">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-12">
@@ -15,10 +15,14 @@
         </div>
       </div>
       {{"<!-- /section title -->" | safeHTML}}
+      <div class="col-lg-12">
+				<h2 class="text-center">{{ .intro | markdownify }}</h2>
+				<p class="text-center">{{ .intro2 | markdownify }}</p>
+			</div>
 
       {{ range .team_member}}
       {{"<!-- team member -->" | safeHTML}}
-      <div class="col-lg-3 col-md-6 col-12 wow fadeInDown" data-wow-duration="500ms">
+      <div class="col-md-3 col-md-4 col-12 wow fadeInDown" data-wow-duration="500ms">
         <div class="team-member">
           <div class="member-photo">
             {{"<!-- member photo -->" | safeHTML}}

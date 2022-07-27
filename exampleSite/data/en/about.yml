@@ -2,11 +2,14 @@
 about:
   enable : true
   title : About Us
+  imageofus : images/about/2022KIT.jpg
+  textabout : World leading researchers with more than twenty years of sucessfully building liquid xenon Dark Matter detectors unite forces in the XLZD Consortium
+  textabout2 : We aim to design and build a single, common multi-ton experiment. Current detectors LZ and XENONnT have the same science goals but differ in many technical details.  We are able to explore and select the best option from both worlds, strengthening our R&D efforts by combining ideas and ressources
   about_item :
   - image : images/about/xenon.png
     title : XENON
     link : http://www.xenon1t.org/
-    content : Currently operating with 8.3 tonnes of liquid Xenon at Gran Sasso, Italy
+    content : Currently operating with 8.3 tonnes of liquid Xenon at Gran Sasso in Italy
 
   - image : images/about/lz2.png
     title : LUX-ZEPLIN
@@ -16,4 +19,4 @@ about:
   - image : images/about/darwin.png
     title : DARWIN
     link : https://darwin.physik.uzh.ch/
-    content : Conceptualising future detector designs with numerous R&D project efforts
+    content : Leading many R&D projects designing a future 50 tonnes liquid Xenon detector

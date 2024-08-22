@@ -7,27 +7,6 @@ team:
   team_member :
     # team member loop
 
-    - name : LNGS
-      image : images/UG/fig04.jpeg
-      designation : Gran Sasso, Italy
-      content : Located under the Gran Sasso mountain (1400m - horizontal access) this laboratory is the largest underground laboratory in the world devoted to neutrino and astroparticle physics
-      social :
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "https://twitter.com/LngsInfn"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "https://t.co/Cak4a0xPdF"
-
-
-    - name : SURF
-      image : images/UG/201007-Fall-aerial-0273.jpeg
-      designation : South Dakota, US
-      content : The deepest underground laboratory in the United States, with about 12 miles for science activities on the 4850 Level (1490m - vertical access). Future location of the DUNE experiment
-      social :
-        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
-          link : "https://twitter.com/SanfordLab"
-        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
-          link : "https://www.sanfordlab.org/"
-
     - name : Boulby
       image : images/UG/Boulby-Mine.jpeg
       designation : North Yorkshire, UK
@@ -46,6 +25,19 @@ team:
         - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "https://www-sk.icrr.u-tokyo.ac.jp/index.php"
 
+
+
+    - name : LNGS
+      image : images/UG/fig04.jpeg
+      designation : Gran Sasso, Italy
+      content : Located under the Gran Sasso mountain (1400m - horizontal access) this laboratory is the largest underground laboratory in the world devoted to neutrino and astroparticle physics
+      social :
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/LngsInfn"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "https://t.co/Cak4a0xPdF"
+
+
     - name : SNOLAB
       image : images/UG/SNOLAB_2014-03-21.jpeg
       designation :  Ontario, Canada
@@ -55,3 +47,14 @@ team:
           link : "https://twitter.com/SNOLABscience"
         - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
           link : "https://t.co/JewsbtFQIu"
+
+    - name : SURF
+      image : images/UG/201007-Fall-aerial-0273.jpeg
+      designation : South Dakota, US
+      content : The deepest underground laboratory in the United States, with about 12 miles for science activities on the 4850 Level (1490m - vertical access). Future location of the DUNE experiment
+      social :
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/SanfordLab"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.sanfordlab.org/"
+

@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://xlzd.org/"
-title = "XLZD Consortium"
+title = "XLZD Collaboration"
 theme = "meghna-hugo"
 themesDir = "../.."
 # post pagination
@@ -101,7 +101,7 @@ weight = 5
 [params]
 logo = "images/xlzd.png"
 # Meta data
-description = "XLZD Dark Matter Consortium Webpage"
+description = "XLZD Dark Matter Collaboration Webpage"
 author = "Nicolas Angelides"
 # Google Analytics
 google_analytics_id = "" # Your ID
@@ -129,7 +129,7 @@ expire_days = 2
 ############################# social icons ##########################
 [[params.social]]
 icon = "ti-twitter" # themify icon pack : https://themify.me/themify-icons
-link = "https://twitter.com/XLZDconsortium"
+link = "https://x.com/XLZDcollab"
 
 [[params.social]]
 icon = "ti-email" # themify icon pack : https://themify.me/themify-icons

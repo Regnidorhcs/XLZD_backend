@@ -6,7 +6,7 @@ banner:
   image : "images/xlzd.png"
   icon : "" # themify icon pack : https://themify.me/themify-icons
   title : ""
-  title2 : "Dark Matter Detection Consortium"
+  title2 : "Dark Matter Detection Collaboration"
   content : "Three world leading collaborations joining forces in the search for Dark Matter!"
   button:
     enable : true

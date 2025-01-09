@@ -913,7 +913,7 @@ a:hover {
   opacity: 1;
 } */
 
-.portfolio-block:hover .caption h4 {
+/* .portfolio-block:hover .caption h4 {
   top: 20%;
   left: 20%;
 }
@@ -928,7 +928,7 @@ a:hover {
 }
 .portfolio-block:hover .caption a {
   color: black;
-}
+} */
 
 .portfolio-block .caption {
   position: absolute;

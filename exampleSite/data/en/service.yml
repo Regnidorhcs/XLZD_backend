@@ -2,7 +2,7 @@
 service:
   enable : true
   title : Xenon Observatory
-  intro : With 40-100 tonnes Xenon we will achieve a lot more than ever before
+  intro : With 60-80 tonnes Xenon we will achieve a lot more than ever before
   intro2 : A low-background, low-threshold xenon observatory can access more than just Weakly Interacting Dark Matter, including neutrinoless double-betta decay, double-electron captrure, solar and astrophysical neutrinos, and broader beyond the Standard Model topics, especially axion-like particles and dark photon electron-recoil interactions
   subtitle1 : An observatory for rare physics
   # content1 : A powerful set of instruments that provides competitive results in many areas

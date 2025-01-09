@@ -13,6 +13,10 @@
 						{{ with .title }} {{ after (len (index (split . " ") 0)) . | safeHTML }} {{ end }}</span></h2>
 					<div class="border-meghna"></div>
 				</div>
+				<div class="col-lg-12">
+					<h2 class="text-center">{{ .intro | markdownify }} <a href="{{ .linkpubs | safeURL }}">{{ .namepubs }}</a> </h2>
+					<p class="text-center">{{ .intro2 | markdownify }} <a href="{{ .linkpubs2 | safeURL }}">{{ .namepubs2 }}</a></p>
+				</div>
 				{{"<!-- /section title -->" | safeHTML}}
 			</div>
 		</div>
@@ -41,11 +45,11 @@
 		<div class="row shuffle-wrapper justify-content-center">
 			{{"<!-- portfolio item -->" | safeHTML}}
 			{{ range .portfolio_item }}
-			<div class="col-sm-1 col-sm-2 col- shuffle-item"
+			<div class="col-sm-6 col- shuffle-item"
 				data-groups="[{{range $index, $element:= .categories }}{{if ne $index 0}},{{end}}&quot;{{. | urlize}}&quot;{{ end }}]">
-				<div class="portfolio-block mb-3">
-					<img class="img-fluid" src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" alt="{{ .name }}">
-					<div class="caption">
+				<div class="portfolio-block mb-3 ">
+					<img  class="img-fluid" src="{{ .image_webp | absURL }}" onerror="this.onerror=null;this.src='{{ .image | absURL }}'" alt="{{ .name }}">
+					<div class="">
 						<!-- <a class="search-icon image-popup" data-effect="mfp-with-zoom" href="{{ .image | relURL }}"
 							data-lightbox="image-1">
 							<i class="ti-search"></i>
@@ -57,7 +61,10 @@
 							<a href="{{ .link | safeURL }}">{{ .name }}</a>
 							{{ end }}
 						</h4>
-						<!-- <p>{{ .content | markdownify }}</p> -->
+						<p> 
+							<!-- {{ .content | markdownify }} -->
+							<a href="{{ .link | safeURL }}">{{ .content  | markdownify }}</a>
+						 </font></p>
 					</div>
 				</div>
 			</div>

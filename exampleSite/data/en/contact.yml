@@ -3,12 +3,18 @@ contact:
   enable : true
   title : Contact Us
   subtitle : Contact Details
-  content : For general enquiries please use one of the links below.
+  content : You can reach out to our spokespeople directly or to our general enquiries adress.
 
-  # # Contact details
-  # contact_list:
-  #   - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-  #     info : "Email: hello@meghna.com"
+  # Contact details
+  contact_list:
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Dan Akerib (Co-spokesperson): akerib@slac.stanford.edu"
+
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "Marc Schuman (Co-spokesperson): marc.schumann@physik.uni-freiburg.de"
+
+    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
+      info : "General enquiries: contact@xlzd.org"
 
 
   # # Contact form

@@ -8,6 +8,15 @@ portfolio:
 
   portfolio_item :
     # portfolio item 
+        # portfolio item loop
+    - name : XLZD The next generation Liquid Xenon Rare-Event Observatory
+      image : images/Alberto_XLZD.png
+      # image_webp : images/portfolio/portfolio-2.webp
+      categories : ["Talks"]
+      content : Talk by Dr. Alberto Usón at IOP APP-HEPP Conference 2025
+      link : "https://indico.global/event/5646/contributions/122137/"
+      
+    
     - name : 'The XLZD Design Book: Towards the Next-Generation Liquid Xenon Observatory for Dark Matter and Neutrino Physics'
       image : images/design_book.png
       # image_webp : images/portfolio/portfolio-1.webp
@@ -32,13 +41,12 @@ portfolio:
       content : Talk by Prof. Laura Baudis at the IDM 2024 conference.
       link : "https://agenda.infn.it/event/39713/contributions/234208/attachments/123635/181405/baudis_idm24.pdf"
       
-    # portfolio item loop
-    - name : XLZD @ BULBY
-      image : images/HA_DMUK24.png
+    - name : XLZD The Future of Direct Dark Matter Detection
+      image : images/Maxi_SPS.png
       # image_webp : images/portfolio/portfolio-2.webp
       categories : ["Talks"]
-      content : Talk by Prof. Henrique Araujo at the DMUK 2024 meeting.
-      link : "https://indico.cern.ch/event/1361633/contributions/5919342/attachments/2854794/4992391/XLZD@Boulby-DMUK_240513.pdf"
+      content : Talk by Maximinio Adrover at the Annual Meeting of the Swiss Physical Society 2024
+      link : "https://indico.cern.ch/event/1382917/contributions/6078341/"
       
     # # portfolio item loop
     # - name : Clock Product

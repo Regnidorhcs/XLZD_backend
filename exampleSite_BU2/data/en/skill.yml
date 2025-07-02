@@ -1,0 +1,35 @@
+################################# Skill ##################################
+skill:
+  enable : true
+  title : Our Impact
+
+
+  subtitle1 : An observatory for rare physics
+  content1 : A powerful set of instruments that provides competitive results in many areas
+  image1 : images/about/sciencechannels.png
+
+  # subtitle2 : Consistent growth in the field
+  # content2 : Nearly 50% larger output than alternative direct detection experiments by 2030
+  # image2 : images/plots/pubs.png
+
+
+
+# skill_item :
+  #   # skill item loop
+  #   - name :  Business Development
+  #     percent : 90%
+  #
+  #   # skill item loop
+  #   - name :  Analysis
+  #     percent : 70%
+  #
+  #   # skill item loop
+  #   - name :  Design
+  #     percent : 80%
+  #
+  #   - name :  IOS Development
+  #     percent : 95%
+  #
+  #   # skill item loop
+  #   - name :  Android Development
+  #     percent : 75%

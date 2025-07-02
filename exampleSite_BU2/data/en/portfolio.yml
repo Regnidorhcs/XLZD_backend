@@ -1,0 +1,97 @@
+#################################### portfolio ###############################
+portfolio:
+  enable : true
+  title : Publications & Talks
+  intro : A list of publications can also be found
+  linkpubs : https://arxiv.org/search/hep-ex?searchtype=author&query=XLZD+Collaboration
+  namepubs : on arxiv
+
+  portfolio_item :
+    # portfolio item 
+    - name : 'The XLZD Design Book: Towards the Next-Generation Liquid Xenon Observatory for Dark Matter and Neutrino Physics'
+      image : images/design_book.png
+      # image_webp : images/portfolio/portfolio-1.webp
+      categories : ["Publications"]
+      content : This report describes the experimental strategy and technologies for a next-generation xenon observatory sensitive to dark matter and neutrino physics. The detector will have an active liquid xenon target mass of 60-80 tonnes and is proposed by the XENON-LUX-ZEPLIN-DARWIN (XLZD) collaboration. The design is based on the mature liquid xenon time projection chamber technology of the current-generation experiments, LZ and XENONnT. A baseline design and opportunities for further optimization of the individual detector components are discussed. The experiment envisaged here has the capability to explore parameter space for Weakly Interacting Massive Particle (WIMP) dark matter down to the neutrino fog, with a 3σ evidence potential for the spin-independent WIMP-nucleon cross sections as low as 3×10^−49cm^2 (at 40 GeV/c^2 WIMP mass). The observatory is also projected to have a 3σ observation potential of neutrinoless double-beta decay of 136Xe at a half-life of up to 5.7×10^27 years. Additionally, it is sensitive to astrophysical neutrinos from the atmosphere, sun, and galactic supernovae.
+      link : "https://arxiv.org/abs/2410.17137"
+      
+    # portfolio item loop
+    - name : Neutrinoless Double Beta Decay Sensitivity of the XLZD Rare Event Observatory
+      image : images/double_beta.png
+      # image_webp : images/portfolio/portfolio-2.webp
+      categories : ["Publications"]
+      content : The XLZD collaboration is developing a two-phase xenon time projection chamber with an active mass of 60 to 80t capable of probing the remaining WIMP-nucleon interaction parameter space down to the so-called neutrino fog. In this work we show that, based on the performance of currently operating detectors using the same technology and a realistic reduction of radioactivity in detector materials, such an experiment will also be able to competitively search for neutrinoless double beta decay in Xe-136 using a natural-abundance xenon target. XLZD can reach a 3σ discovery potential half-life of 5.7×10^27 yr (and a 90% CL exclusion of 1.3×10^28 yr) with 10 years of data taking, corresponding to a Majorana mass range of 7.3-31.3 meV (4.8-20.5 meV). XLZD will thus exclude the inverted neutrino mass ordering parameter space and will start to probe the normal ordering region for most of the nuclear matrix elements commonly considered by the community.
+
+      link : "https://arxiv.org/abs/2410.19016"
+
+    # portfolio item loop
+    - name : 'XLZD: A Next-Generation Liquid Xenon Observatory for Dark Matter and Neutrino Physics'
+      image : images/LB_IDM24.png
+      # image_webp : images/portfolio/portfolio-2.webp
+      categories : ["Talks"]
+      content : Talk by Prof. Laura Baudis at the IDM 2024 conference.
+      link : "https://agenda.infn.it/event/39713/contributions/234208/attachments/123635/181405/baudis_idm24.pdf"
+      
+    # portfolio item loop
+    - name : XLZD @ BULBY
+      image : images/HA_DMUK24.png
+      # image_webp : images/portfolio/portfolio-2.webp
+      categories : ["Talks"]
+      content : Talk by Prof. Henrique Araujo at the DMUK 2024 meeting.
+      link : "https://indico.cern.ch/event/1361633/contributions/5919342/attachments/2854794/4992391/XLZD@Boulby-DMUK_240513.pdf"
+      
+    # # portfolio item loop
+    # - name : Clock Product
+    #   image : images/portfolio/portfolio-3.jpg
+    #   image_webp : images/portfolio/portfolio-3.webp
+    #   categories : ["design", "development"]
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #   link : "#"
+      
+    # # portfolio item loop
+    # - name : Bottol Label
+    #   image : images/portfolio/portfolio-4.jpg
+    #   image_webp : images/portfolio/portfolio-4.webp
+    #   categories : ["photography", "development"]
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #   link : "#"
+      
+    # # portfolio item loop
+    # - name : Shopping Bag
+    #   image : images/portfolio/portfolio-5.jpg
+    #   image_webp : images/portfolio/portfolio-5.webp
+    #   categories : ["design"]
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #   link : "#"
+      
+    # # portfolio item loop
+    # - name : Tag Design
+    #   image : images/portfolio/portfolio-6.jpg
+    #   image_webp : images/portfolio/portfolio-6.webp
+    #   categories : ["photography"]
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #   link : "#"
+      
+    # # portfolio item loop
+    # - name : Business Card
+    #   image : images/portfolio/portfolio-7.jpg
+    #   image_webp : images/portfolio/portfolio-7.webp
+    #   categories : ["development"]
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #   link : "#"
+      
+    # # portfolio item loop
+    # - name : Stationary Design
+    #   image : images/portfolio/portfolio-8.jpg
+    #   image_webp : images/portfolio/portfolio-8.webp
+    #   categories : ["design", "development"]
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #   link : "#"
+      
+    # # portfolio item loop
+    # - name : Tag Design
+    #   image : images/portfolio/portfolio-2.jpg
+    #   image_webp : images/portfolio/portfolio-2.webp
+    #   categories : ["design", "photography"]
+    #   content : Lorem ipsum dolor sit amet consectetur adipisicing elit.
+    #   link : "#"

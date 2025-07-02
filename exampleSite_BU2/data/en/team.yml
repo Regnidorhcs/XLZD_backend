@@ -1,0 +1,60 @@
+############################### team ############################
+team:
+  enable : true
+  title : Possible Locations
+  intro : Planning big!
+  intro2 : Our science relies on shielding from cosmic rays achieved by operating deep underground. Several locations are generally considered as the installation details for the different labs might be largely different
+  team_member :
+    # team member loop
+
+    - name : Boulby
+      image : images/UG/Boulby-Mine.jpeg
+      designation : North Yorkshire, UK
+      content : The Boulby Underground Laboratory, the UK's deep underground science facility, located 1100m (vertical access) below ground in an active salt mine extending below the North Sea
+      social :
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/BoulbyLab"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.boulby.stfc.ac.uk/Pages/home.aspx"
+
+    # - name : Kamioka
+    #   image : images/UG/img_nobel_08.jpeg
+    #   designation : Japan
+    #   content : The location of historic neutrino experiments in the converted Mozumi mine in the Okuhida mountains (1000m - horizontal access)
+    #   social :
+    #     - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+    #       link : "https://www-sk.icrr.u-tokyo.ac.jp/index.php"
+
+
+
+    - name : LNGS
+      image : images/UG/fig04.jpeg
+      designation : Gran Sasso, Italy
+      content : Located under the Gran Sasso mountain (1400m - horizontal access) this laboratory is the largest underground laboratory in the world devoted to neutrino and astroparticle physics
+      social :
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/LngsInfn"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "https://t.co/Cak4a0xPdF"
+
+
+    # - name : SNOLAB
+    #   image : images/UG/SNOLAB_2014-03-21.jpeg
+    #   designation :  Ontario, Canada
+    #   content : Canada’s deep underground research laboratory, located in Vale’s Creighton active mine (2070m - vertical access)
+    #   social :
+    #     - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+    #       link : "https://twitter.com/SNOLABscience"
+    #     - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+    #       link : "https://t.co/JewsbtFQIu"
+
+    - name : SURF
+      image : images/UG/201007-Fall-aerial-0273.jpeg
+      designation : South Dakota, US
+      content : The deepest underground laboratory in the United States, with about 12 miles for science activities on the 4850 Level (1490m - vertical access). Future location of the DUNE experiment
+      social :
+        - icon : ti-twitter-alt # themify icon pack : https://themify.me/themify-icons
+          link : "https://twitter.com/SanfordLab"
+        - icon : ti-dribbble # themify icon pack : https://themify.me/themify-icons
+          link : "https://www.sanfordlab.org/"
+

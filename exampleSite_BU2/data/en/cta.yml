@@ -1,0 +1,12 @@
+############################# call to action ##############################
+cta:
+  enable : true
+  bg_image : "images/backgrounds/pmts.png"
+  # bg_image_webp : "images/backgrounds/bg-white-wall.webp"
+  title : "Directly Detecting Dark Matter"
+  content : "Xenon is a world leading target for dark matter searches and a large number of other new science efforts"
+  button:
+    enable : true
+    label : "Read the White Paper"
+    link : "https://arxiv.org/abs/2203.02309"
+  # image: images/about/odin_propaganda_ww.png

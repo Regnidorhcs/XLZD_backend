@@ -98,7 +98,7 @@ weight = 6
 [params]
 logo = "images/xlzd.png"
 # Meta data
-description = "XLZD Dark Matter Collaboration Webpage"
+description = "XLZD Collaboration Webpage"
 author = "Nicolas Angelides"
 # Google Analytics
 google_analytics_id = "" # Your ID

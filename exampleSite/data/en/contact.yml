@@ -2,19 +2,37 @@
 contact:
   enable : true
   title : Contact Us
-  subtitle : Contact Details
-  content : You can reach out to our spokespeople directly or to our general enquiries adress.
+  # subtitle : You can reach out to our spokespeople directly or to our general enquiries adress.
+  content1 : Co-spokespeople
+  content2 : Speakers Committee
+  content3 : General Enquiries
 
   # Contact details
-  contact_list:
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Dan Akerib (Co-spokesperson): akerib@slac.stanford.edu"
+  contact_list1:
+    - icon1 : ti-email # themify icon pack : https://themify.me/themify-icons
+      info1 : "Prof. Dan Akerib"
+      info1Email : "akerib@slac.stanford.edu"
 
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "Marc Schuman (Co-spokesperson): marc.schumann@physik.uni-freiburg.de"
+    - icon1 : ti-email # themify icon pack : https://themify.me/themify-icons
+      info1 : "Prof. Marc Schuman"
+      info1Email : "marc.schumann@physik.uni-freiburg.de"
 
-    - icon : ti-email # themify icon pack : https://themify.me/themify-icons
-      info : "General enquiries: contact@xlzd.org"
+  # Contact details
+  contact_list2:
+    - icon2 : ti-email # themify icon pack : https://themify.me/themify-icons
+      info2 : "Dr. Alex Lindote"
+      info2Email : "alex@coimbra.lip.pt"
+
+    - icon2 : ti-email # themify icon pack : https://themify.me/themify-icons
+      info2 : "Dr. Teresa Marrodan"
+      info2Email : "marrodan@mpi-hd.mpg.de"
+
+
+  # Contact details
+  contact_list3:
+    - icon3 : ti-email # themify icon pack : https://themify.me/themify-icons
+      info3 : "For anything else"
+      info3Email : "contact@xlzd.org"
 
 
   # # Contact form

@@ -1,12 +1,12 @@
 ################################# Skill ##################################
 skill:
   enable : true
-  title : Our Impact
+  title : Outreach
 
 
-  subtitle1 : An observatory for rare physics
-  content1 : A powerful set of instruments that provides competitive results in many areas
-  image1 : images/about/sciencechannels.png
+  subtitle1 : Scenes from the first collaboration meeting of XLZD
+  content1 : Memebers of our collaboration sharing their favourite part of wroking on XLZD 
+  video : https://www.youtube.com/watch?v=o7EXUj5mBPE
 
   # subtitle2 : Consistent growth in the field
   # content2 : Nearly 50% larger output than alternative direct detection experiments by 2030

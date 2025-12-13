@@ -65,14 +65,19 @@ url = "#portfolio"
 weight = 4
 
 [[Languages.en.menu.main]]
+name = "outreach"
+url = "#skills"
+weight = 5
+
+[[Languages.en.menu.main]]
 name = "news"
 url = "#blog"
-weight = 5
+weight = 6
 
 [[Languages.en.menu.main]]
 name = "contact"
 url = "#contact"
-weight = 6
+weight = 7
 
 
 # [[Languages.en.menu.main]]
